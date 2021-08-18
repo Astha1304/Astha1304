@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Astha Goel
 - 👀 I’m interested in DataScience
-- 🌱 I’m currently learning DataScience,Python,R,Hadoop,Azure
+- 🌱 I’m currently learning DataScience,Python,R,Hadoop,Azure,Tableau
 - 💞️ I’m looking to collaborate on Data science
 - 📫 Reach me on asthagoel134@gmail.com
 
